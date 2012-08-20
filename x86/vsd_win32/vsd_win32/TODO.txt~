@@ -1,0 +1,16 @@
+TODO:
+
+[] Full UNICODE support.
+[x] Agregar ordenamiento a la ventana donde se listan las secciones virtuales
+[] Cambiar la función RegisterHotKey por Accelerators
+[x] Revisar por que CopyDataToClipboard a veces crashea
+[] Agregar tooltips a la columna de nombres de proceso con el path completo al ejecutable
+[] Agregar un Dialog con información extra del proceso (Path, command line, user, etc)
+[] Agregar una ventana para listar los modulos cargados por cada proceso.
+[] Agregar una ventana para listar todos los handles abiertos por el proceso.
+[] Permitir que con ENTER se listen las secciones virtuales correspondientes al proceso sobre el cual se tiene foco en el listview
+[x] Agregar la posibilidad de "Dump regions"
+[x] Agregar la posibilidad de "Dump Full"
+[x] Agregar la posibilidad de "Dump Partial"
+[x] Versión de 64 bits
+[] Code refactoring :P

@@ -1,0 +1,24 @@
+v2.0 - 01/04/2012
+--
+
+- Added a menu bar.
+- Added a module list viewer.
+- Added Dump Full and Dump Partial over a specific module.
+- Added sorting feature in the module list viewer.
+- Added a handle list viewer.
+- Added sorting feature in the handle list viewer.
+- Added a thread list viewer.
+- Added Resume, Terminate and Suspend functions in the thread list viewer.
+- Added the "Patch" feature.
+- Bugfixes in some functions.
+- Code refactoring in some functions. The code still needs a lot of improvements :P
+
+v1.1 - 16/02/2012
+--
+
+- Fixed a bug in the PastePEHeader() function when calculating the offset of the PE Header.
+
+v1.0 - 16/02/2012
+--
+
+- First stable release
